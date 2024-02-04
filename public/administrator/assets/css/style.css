@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,700");
+
+.nav-item.active {
+    background-color: rgba(63, 135, 245, 0.15);
+}
+
+.nav-item.active a {
+    color: #3f87f5 !important;
+    border-right: 2px solid #3f87f5;;
+}
